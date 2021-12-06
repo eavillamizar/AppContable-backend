@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "appcontable",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,14 @@
     "mongoose": "^6.0.14",
     "nodemon": "^2.0.15"
   },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eavillamizar/AppContable-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eavillamizar/AppContable-backend/issues"
+  },
+  "homepage": "https://github.com/eavillamizar/AppContable-backend#readme",
   "description": ""
 }
